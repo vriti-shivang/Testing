@@ -22,8 +22,8 @@ class TestDataUniqueValues(object):
 
     @staticmethod
     def get_expected_result():
-        # complete this function
         return 1
+        # complete this function
 
 class TestDataExactlyTwoDifferentMinimums(object):
 
@@ -31,7 +31,6 @@ class TestDataExactlyTwoDifferentMinimums(object):
     def get_array():
         # complete this function
         return [3, 1, 1]
-
     @staticmethod
     def get_expected_result():
         # complete this function
